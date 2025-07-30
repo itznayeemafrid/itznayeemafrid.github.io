@@ -13,6 +13,10 @@
   --text-secondary: #848DAC;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Inter', sans-serif;
   background-color: var(--dark);
